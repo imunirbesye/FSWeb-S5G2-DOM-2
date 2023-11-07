@@ -24,7 +24,7 @@ Bu projede sakın **hiçbir dosyayı taşımayın veya adını değiştirmeyin**
 
 ###  Farklı 10 event için listener oluşturun (etkinlik dinleyici, event dinleyici, event listener)
 
-* [ ] [index.js dosyası](src/index.js)'nı kullanarak, en az 10 _farklı_ tipte [event listeners](https://developer.mozilla.org/en-US/docs/Web/Events) oluşturun. Bu siteyi interaktif hale getirmek için kendi yaratıcılığınızı kullanın. Örnek, eventlerle renkleri değiştirebilir, nesnelere animasyonlar ekleyebilir, DOM elementleri ekleyebilir veya silebilirsiniz.
+* [ ] [index.js dosyası](src/index.js)'nı kullanarak, en az 10 _farklı_ tipte [event listeners](ı) oluşturun. Bu siteyi interaktif hale getirmek için kendi yaratıcılığınızı kullanın. Örnek, eventlerle renkleri değiştirebilir, nesnelere animasyonlar ekleyebilir, DOM elementleri ekleyebilir veya silebilirsiniz.
 
 * [ ] Kullanabileceğiniz bazı event çeşitleri şunlardır:
   * [ ] `mouseover`
